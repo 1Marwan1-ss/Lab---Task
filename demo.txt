@@ -1,5 +1,1 @@
 This is my demo file for GitHub.
-
-#How to Run
---Just open the demo.txt file to read the content.
-
