@@ -3,6 +3,9 @@ on: push
 jobs:
   My-job:
     runs-on: ubuntu-latest
+    steps:
+      - name:  my-setup
+        run: echo "Hello World!"
   job-2:
     runs-on: ubuntu-latest
     steps:
